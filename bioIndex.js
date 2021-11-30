@@ -16,7 +16,7 @@ const redeSocial = [
     },
     {
         name: 'whatsapp',
-        url: 'https://web.whatsapp.com/send?l=pt-BR&phone=+5533988125703',
+        url: 'http://wa.me/5533988125703',
         logoUrl: './images/whatsapp-logo.png'
     },
     {
