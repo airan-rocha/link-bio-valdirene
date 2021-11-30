@@ -6,7 +6,7 @@ redeSocial.forEach(element => {
     const {name, url, logoUrl} = element;
 
     redesSociais += (`
-            <a href='${url}'><img alt='logo ${name}' src='${logoUrl}'></a>
+            <a target='_blank' href='${url}'><img alt='logo ${name}' src='${logoUrl}'></a>
     `);
 });
 
