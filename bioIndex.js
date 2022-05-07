@@ -30,7 +30,7 @@ const redeSocial = [
 
 //link do youtube com o vídeo em destaque
 //na página do vídeo clique em compartilhar e utilize e copie e cole o link gerado
-const videoYouTubeDestaque = 'https://youtu.be/duYQz-qtANQ';
+const videoYouTubeDestaque = 'https://youtu.be/NQKTgmwEC1Q';
 
 // cards - array com os objetos dos cards
 // para manter uma boa aparência, insira imagem quadradas. Ex: 300px x 300px
@@ -43,17 +43,17 @@ const card = [
     {
         title: 'Presentes',
         url: 'https://www.natura.com.br/s/produtos?busca=%22presentes%22&consultoria=valdirenecassemiro',
-        imgUrl: './images/cards/presentes.jpg'
+        imgUrl: 'https://static.natura.com/sites/default/files/styles/medium/public/products/117682_1_2.jpg?itok=FpNyS03X'
     },
     {
         title: 'Natura Ekos',
         url: 'https://www.natura.com.br/s/produtos?busca=%22natura%20ekos%22&consultoria=valdirenecassemiro',
-        imgUrl: 'https://static.natura.com/cdn/ff/3QPaJtkIKsa2rrrxVCKQ5Im2Ug65VqpLdMlM2yvPh1w/1637946097/public/products/98115_3.jpg'
+        imgUrl: 'https://static.natura.com/sites/default/files/styles/medium/public/products/114235_1_2.jpg?itok=iSm4mCqS'
     },
     {
         title: 'Natura TodoDia',
         url: 'https://www.natura.com.br/s/produtos?busca=%22tododia%22&consultoria=valdirenecassemiro',
-        imgUrl: 'https://static.natura.com/cdn/ff/9eXYp57jq1ytyFUNK0vn5ABhK5P0TZi3USTyyjy9RKA/1637829139/public/products/111147_0.jpg'
+        imgUrl: 'https://static.natura.com/sites/default/files/styles/medium/public/products/109163_1_2.jpg?itok=NET0R9UF'
     },
 
 ]
